@@ -19,10 +19,3 @@ run the following commands
 npm install
 npm start
 ```
-
-#### Future Scope
-* - [ ] If the repository already exists, `git pull` instead of cloning
-* - [ ] Gui for entering token
-
-
-### Thats It :rocket:, Now go backup
